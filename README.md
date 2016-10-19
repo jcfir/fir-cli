@@ -8,7 +8,7 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FIRHQ/fir-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/FIRHQ/fir-cli/master/LICENSE.txt)
 
-fir.im-cli 可以通过指令查看, 上传, 编译 iOS/Android 应用.
+fir.im-cli 可以通过指令查看, 上传, 编 译 iOS/Android 应用.    
 
 ![fir-cli](http://7rf35s.com1.z0.glb.clouddn.com/fir-cli-new.gif)
 
